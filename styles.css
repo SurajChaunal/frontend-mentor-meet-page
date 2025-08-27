@@ -35,7 +35,7 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-size: 1.6rem;
   min-width: 100%;
-  background-color: var(--color-white);
+  background-color: var(--color-gray-100);
   color: var(--color-gray-600);
 }
 .container {
